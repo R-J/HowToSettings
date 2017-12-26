@@ -1,0 +1,24 @@
+{
+    "name": "HowTo: Settings",
+    "description": "Shows how to create a simple settings page for your plugin.",
+    "authors": [
+        {
+            "name": "Robin Jurinka",
+            "homepage": "https://open.vanillaforums.com/profile/r_j"
+        }
+    ],
+    "hasLocale": true,
+    "key": "howtosettings",
+    "license": "MIT",
+    "mobileFriendly": true,
+    "registerPermissions": [],
+    "require": {
+        "vanilla": "2.5"
+    },
+    "requiredTheme": false,
+    "settingsPermission": "Garden.Settings.Manage",
+    "settingsUrl": "/settings/howtosettings",
+    "type": "addon",
+    "url": "https://github.com/R-J/HowToSettings",
+    "version": "0.2.0"
+}
